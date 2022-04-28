@@ -6,6 +6,7 @@
   cursor: pointer;
   display: inline-block;
   line-height: 1;
+  padding: 20px;
 }
 .storybook-button:hover {
   transition: 200ms ease-in-out;
