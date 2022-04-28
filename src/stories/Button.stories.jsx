@@ -40,7 +40,7 @@ Small.args = {
 };
 
 export const Test = Template.bind({});
-Small.args = {
+Test.args = {
   size: 'large',
   label: 'Button test',
 };
