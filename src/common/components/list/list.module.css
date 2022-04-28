@@ -1,0 +1,9 @@
+.listWrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 24px 12px;
+  background-color: white;
+  width: 300px;
+  box-shadow: 0px 0px 20px rgba(24, 47, 67, 0.2);
+  margin: 24px 0;
+}

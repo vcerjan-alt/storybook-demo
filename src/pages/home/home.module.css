@@ -1,0 +1,24 @@
+.pageWrapper {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  min-height: 20vh;
+}
+
+.font1 {
+  font-family: 'Montserrat';
+}
+
+.font2 {
+  font-family: 'Comic Sans MS';
+}
+
+.skyblueBg {
+  background-color: skyblue;
+}
+
+.coralBg {
+  background-color: coral;
+}
