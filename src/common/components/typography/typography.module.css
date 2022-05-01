@@ -1,0 +1,23 @@
+.title {
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.9);
+  margin: 0;
+}
+
+.subtitle {
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.9);
+  margin: 0;
+}
+
+.text {
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.8);
+  margin: 0;
+}
+
+.label {
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.6);
+  margin: 0;
+}
